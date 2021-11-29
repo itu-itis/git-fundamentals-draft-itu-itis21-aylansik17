@@ -8,7 +8,10 @@ h1 {
 	font-size: 24 pt;
 	font-family: Tahoma, Helvetica, sans-serif;
 }
-
+p.centered {
+	text-align: center;
+	width: 50%;
+}
 em {
 	color: green;
 	font-style: normal;
@@ -33,7 +36,3 @@ li:first-child {
 	width: 40%;
 }
 
-p.centered {
-	text-align: center;
-	width: 50%;
-}
